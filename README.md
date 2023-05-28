@@ -8,4 +8,4 @@ blastp  -query H2A.fasta  -db thermococcus.faa  -out h2a.blast  -outfmt 7
 
 Таблица со значениями evalue после выравнивания
 
-![image](https://github.com/Dianak6/hse23_project/assets/114064027/c630d54f-cc65-4a35-9fe2-d476c72fcb9c)
+![image](https://github.com/Dianak6/hse23_project/assets/114064027/da8faff4-43bf-4a79-a0cd-146696d29a9b)
