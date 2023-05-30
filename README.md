@@ -1,4 +1,21 @@
 # hse23_project
+Выравнивание белковых последовательностей для гистона 2A
+
+![image](https://github.com/Dianak6/hse23_project/assets/114064027/34c9a677-de52-4cc1-ac40-a00a270140b3)
+
+Выравнивание белковых последовательностей для гистона 2B
+
+![image](https://github.com/Dianak6/hse23_project/assets/114064027/3959fa5e-5fda-4564-a1b8-9720c1ac406f)
+
+Выравнивание белковых последовательностей для гистона 3
+
+![image](https://github.com/Dianak6/hse23_project/assets/114064027/2c836b42-a8ed-47eb-8c3c-2fea79fff690)
+
+Выравнивание белковых последовательностей для гистона 4
+
+![image](https://github.com/Dianak6/hse23_project/assets/114064027/405d74e9-e5da-4737-8b8e-de2fca7e89fc)
+
+
 С помощью Blastp получаем значения evalue для всех организмов
 ```
 blastp  -query H2A.fasta  -db thermococcus.faa  -out h2a.blast  -outfmt 7
