@@ -21,7 +21,7 @@
 blastp  -query H2A.fasta  -db thermococcus.faa  -out h2a.blast  -outfmt 7
 ```
 Пример выходного файла Blastp
-![image](https://github.com/Dianak6/hse23_project/assets/114064027/fb3c2618-7095-4156-9bd3-c4107638bdae)
+![image](https://github.com/Dianak6/hse23_project/assets/114064027/327be637-4023-4b1b-99dc-c43580670d5d)
 
 Таблица со значениями evalue после выравнивания
 
