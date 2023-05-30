@@ -15,6 +15,7 @@
 
 ![image](https://github.com/Dianak6/hse23_project/assets/114064027/405d74e9-e5da-4737-8b8e-de2fca7e89fc)
 
+Выбрала по одной аминокислоте каждого гистона (файлы формата fasta приложены в папке data)
 
 С помощью Blastp получаем значения evalue для всех организмов
 ```
