@@ -3,6 +3,21 @@
 
 Белок: **SMYD2**
 
+Функция белка: Histone modification write
+
+Необходим для нормального развития организма и регуляции ряда патофизиологических процессов. Является важнейшим регулятором сердечно-сосудистых заболеваний и рака.
+
+Ссылка на статью
+https://clinicalepigeneticsjournal.biomedcentral.com/articles/10.1186/s13148-019-0711-4
+
+Экспрессируется в основном в сердце.
+
+![image](https://github.com/Dianak6/hse23_project/assets/114064027/1e8a400f-adec-4a43-85b5-07d5c0a8c40d)
+
+Домены: SET super family 
+
+![image](https://github.com/Dianak6/hse23_project/assets/114064027/7a8a9913-ef57-4a9e-a435-2e60aedc669e)
+
 Выравнивание было выполнено в программе MEGAX
 
 Выравнивание белковых последовательностей для гистона 2A
