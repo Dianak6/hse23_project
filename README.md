@@ -65,3 +65,5 @@ blastp  -query H2A.fasta  -db thermococcus.faa  -out h2a.blast  -outfmt 7
 ![image](https://github.com/Dianak6/hse23_project/assets/114064027/5b42efee-269f-48f5-8454-e5ebf1b4107c)
 
 ,где 0-H1A 1-H1B 2-H2 3-H3 4-SMYD2
+
+На тепловой карте видно, что даннаый белок SMYD2 проявляется на уровне yeast и ciliate. Высокий коэффициент схожести с human, mouse, zebrafish. 
