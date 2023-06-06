@@ -1,7 +1,7 @@
 # hse23_project
 Гистоновая метка: **H3K36me**
 
-Белок: **SMYD2**
+Белок: **SMYD2** (Индефикатор белка: NM_020197)
 
 ![image](https://github.com/Dianak6/hse23_project/assets/114064027/46359197-9114-4b80-be8d-b5450ebb144b)
 
