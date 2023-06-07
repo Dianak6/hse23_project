@@ -64,7 +64,7 @@ blastp  -query H2A.fasta  -db thermococcus.faa  -out h2a.blast  -outfmt 7
 
 Далее рисую тепловую карту (блокнот с кодом - https://colab.research.google.com/drive/1DBHOT5RKECCw3C7pYM2RQX_cFLlPfzFX?usp=sharing )
 
-![image](https://github.com/Dianak6/hse23_project/assets/114064027/5b42efee-269f-48f5-8454-e5ebf1b4107c)
+![image](https://github.com/Dianak6/hse23_project/assets/114064027/54d53010-e2e9-4919-a4ce-5bc4f0272553)
 
 ,где 0-H1A 1-H1B 2-H2 3-H3 4-SMYD2
 
